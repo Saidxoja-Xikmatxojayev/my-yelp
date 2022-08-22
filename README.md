@@ -1,6 +1,6 @@
 # Welcome to My Yelp
 ***
-# Try it yourself: [Yelp-by-xan](https://main.d1x7p0b8w6xvon.amplifyapp.com/)
+# Try it yourself: [demo](https://main.d1x7p0b8w6xvon.amplifyapp.com/)
 
 ## Task
 > I learned a lot in this project. Including I: amplify, graphql and aws.
